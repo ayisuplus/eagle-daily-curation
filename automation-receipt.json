@@ -1,0 +1,20 @@
+{
+  "id": "eagle-2",
+  "name": "Eagle 每日精选素材",
+  "status": "ACTIVE",
+  "rrule": "FREQ=DAILY;BYHOUR=20;BYMINUTE=0;BYSECOND=0",
+  "model": "gpt-6.1-sol",
+  "reasoning_effort": "high",
+  "auto_archive": null,
+  "execution_environment": "local",
+  "target": {
+    "type": "project",
+    "project_id": "1da31693-359d-44e3-bc90-b5208d2cbc54"
+  },
+  "cwds": [
+    "E:\\projects\\临时目录"
+  ],
+  "replacedDeletedAutomation": "eagle",
+  "promptMatches": true,
+  "naturalRunVerified": false
+}

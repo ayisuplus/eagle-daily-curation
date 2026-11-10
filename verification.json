@@ -1,0 +1,83 @@
+{
+  "date": "2026-11-08",
+  "baselineItems": 1797,
+  "currentItems": 1805,
+  "newVerifiedMedia": 8,
+  "groups": 3,
+  "protectedFieldChanges": [],
+  "legacySourcesUnchanged": true,
+  "activation": {
+    "ready": true,
+    "successfulRounds": 3,
+    "requiredRounds": 3,
+    "validatedPlatforms": [
+      "pinterest",
+      "xiaohongshu"
+    ],
+    "savedPlatforms": [
+      "pinterest",
+      "xiaohongshu"
+    ],
+    "reason": "ready"
+  },
+  "media": [
+    {
+      "itemId": "MW7ED5J368UVV",
+      "path": "G:\\lingerpurplefall个人素材库.library\\images\\MW7ED5J368UVV.info\\米白蕾丝挂脖礼服参考＋Nguyễn Tuyến · 01.jpg",
+      "sha256": "9d6e3bca2f63a86e596625c871e2ce07fa9dec16e73b152f05f6fa90378295b4",
+      "apiAndDiskVerified": true
+    },
+    {
+      "itemId": "MW7EETFZXU0RH",
+      "path": "G:\\lingerpurplefall个人素材库.library\\images\\MW7EETFZXU0RH.info\\暖调居家针织写真＋莆田壹家少女写真 · 01.webp",
+      "sha256": "560122da8784dbcef4019e6779731c6c1bbdc7e8050fdb8cfbecea496833b856",
+      "apiAndDiskVerified": true
+    },
+    {
+      "itemId": "MW7EEUU6DJY3S",
+      "path": "G:\\lingerpurplefall个人素材库.library\\images\\MW7EEUU6DJY3S.info\\暖调居家针织写真＋莆田壹家少女写真 · 02.webp",
+      "sha256": "ea358d14e9e472800cee637b7961fe1efec85bb18d26bb8ced2725e8cdf565ea",
+      "apiAndDiskVerified": true
+    },
+    {
+      "itemId": "MW7EEWCN4NJIN",
+      "path": "G:\\lingerpurplefall个人素材库.library\\images\\MW7EEWCN4NJIN.info\\暖调居家针织写真＋莆田壹家少女写真 · 03.webp",
+      "sha256": "aeb8a01b3026331ebfa131c0a7e84b46c1f65e2049bc0bf048f2fbc1d1791e4a",
+      "apiAndDiskVerified": true
+    },
+    {
+      "itemId": "MW7EEXSTQLGF4",
+      "path": "G:\\lingerpurplefall个人素材库.library\\images\\MW7EEXSTQLGF4.info\\暖调居家针织写真＋莆田壹家少女写真 · 04.webp",
+      "sha256": "a09ad736f45f2d4af0cc2541c0d15ad123b3f933399069ec051e21438bba4c10",
+      "apiAndDiskVerified": true
+    },
+    {
+      "itemId": "MW7EEZ7NN3NSP",
+      "path": "G:\\lingerpurplefall个人素材库.library\\images\\MW7EEZ7NN3NSP.info\\暖调居家针织写真＋莆田壹家少女写真 · 05.webp",
+      "sha256": "273076be2df77561ac36d8e485887a1eb61a1a3ae1d4d03b5339707b3357aa6f",
+      "apiAndDiskVerified": true
+    },
+    {
+      "itemId": "MW7EF0KTNDRBZ",
+      "path": "G:\\lingerpurplefall个人素材库.library\\images\\MW7EF0KTNDRBZ.info\\暖调居家针织写真＋莆田壹家少女写真 · 06.webp",
+      "sha256": "dee1b4ba756eabbc097d3b567a8a425f3deb63c56978fad3e2eae44ae0888ee0",
+      "apiAndDiskVerified": true
+    },
+    {
+      "itemId": "MW7EGIXSGAZ5W",
+      "path": "G:\\lingerpurplefall个人素材库.library\\images\\MW7EGIXSGAZ5W.info\\暗色新娘插画＋Xiu Diaries · 01.jpg",
+      "sha256": "203e82263a5a7c35a6a26abf5ff2ea8ce620add174687bf5a2b348227fc63b7e",
+      "apiAndDiskVerified": true
+    }
+  ],
+  "tests": {
+    "passed": 74,
+    "failed": 0
+  },
+  "naturalScheduledRunVerified": false,
+  "reviews": {
+    "standards": "Separate read-only review; reconciliation and identity findings fixed with regression tests",
+    "spec": "Separate read-only review; purpose/execution binding and activation findings fixed; no remaining actionable issues in final check"
+  },
+  "sharedSkillCommit": "3f10112"
+}

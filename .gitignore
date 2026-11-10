@@ -1,0 +1,5 @@
+state/
+work/
+backups/
+__pycache__/
+*.baiduyun.uploading.cfg
